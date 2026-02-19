@@ -1,0 +1,218 @@
+[
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/emdw-base/emdw.cc.o -c /home/tristan/devel/emdw/src/emdw-base/emdw.cc",
+  "file": "/home/tristan/devel/emdw/src/emdw-base/emdw.cc",
+  "output": "src/CMakeFiles/emdw.dir/emdw-base/emdw.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/emdw-beliefprop/lbp_cg.cc.o -c /home/tristan/devel/emdw/src/emdw-beliefprop/lbp_cg.cc",
+  "file": "/home/tristan/devel/emdw/src/emdw-beliefprop/lbp_cg.cc",
+  "output": "src/CMakeFiles/emdw.dir/emdw-beliefprop/lbp_cg.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/emdw-beliefprop/lbu2_cg.cc.o -c /home/tristan/devel/emdw/src/emdw-beliefprop/lbu2_cg.cc",
+  "file": "/home/tristan/devel/emdw/src/emdw-beliefprop/lbu2_cg.cc",
+  "output": "src/CMakeFiles/emdw.dir/emdw-beliefprop/lbu2_cg.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/emdw-beliefprop/lbu_cg.cc.o -c /home/tristan/devel/emdw/src/emdw-beliefprop/lbu_cg.cc",
+  "file": "/home/tristan/devel/emdw/src/emdw-beliefprop/lbu_cg.cc",
+  "output": "src/CMakeFiles/emdw.dir/emdw-beliefprop/lbu_cg.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/emdw-beliefprop/messagequeue.cc.o -c /home/tristan/devel/emdw/src/emdw-beliefprop/messagequeue.cc",
+  "file": "/home/tristan/devel/emdw/src/emdw-beliefprop/messagequeue.cc",
+  "output": "src/CMakeFiles/emdw.dir/emdw-beliefprop/messagequeue.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/emdw-beliefprop/lbu_sweep.cc.o -c /home/tristan/devel/emdw/src/emdw-beliefprop/lbu_sweep.cc",
+  "file": "/home/tristan/devel/emdw/src/emdw-beliefprop/lbu_sweep.cc",
+  "output": "src/CMakeFiles/emdw.dir/emdw-beliefprop/lbu_sweep.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/emdw-clustering/mojo.cc.o -c /home/tristan/devel/emdw/src/emdw-clustering/mojo.cc",
+  "file": "/home/tristan/devel/emdw/src/emdw-clustering/mojo.cc",
+  "output": "src/CMakeFiles/emdw.dir/emdw-clustering/mojo.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/emdw-factors/affinemvg.cc.o -c /home/tristan/devel/emdw/src/emdw-factors/affinemvg.cc",
+  "file": "/home/tristan/devel/emdw/src/emdw-factors/affinemvg.cc",
+  "output": "src/CMakeFiles/emdw.dir/emdw-factors/affinemvg.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/emdw-factors/factor.cc.o -c /home/tristan/devel/emdw/src/emdw-factors/factor.cc",
+  "file": "/home/tristan/devel/emdw/src/emdw-factors/factor.cc",
+  "output": "src/CMakeFiles/emdw.dir/emdw-factors/factor.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/emdw-factors/factoroperator.cc.o -c /home/tristan/devel/emdw/src/emdw-factors/factoroperator.cc",
+  "file": "/home/tristan/devel/emdw/src/emdw-factors/factoroperator.cc",
+  "output": "src/CMakeFiles/emdw.dir/emdw-factors/factoroperator.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/emdw-factors/sqrtmvg.cc.o -c /home/tristan/devel/emdw/src/emdw-factors/sqrtmvg.cc",
+  "file": "/home/tristan/devel/emdw/src/emdw-factors/sqrtmvg.cc",
+  "output": "src/CMakeFiles/emdw.dir/emdw-factors/sqrtmvg.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/emdw-factors/treefactor.cc.o -c /home/tristan/devel/emdw/src/emdw-factors/treefactor.cc",
+  "file": "/home/tristan/devel/emdw/src/emdw-factors/treefactor.cc",
+  "output": "src/CMakeFiles/emdw.dir/emdw-factors/treefactor.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/emdw-graphing/bronkerbosch.cc.o -c /home/tristan/devel/emdw/src/emdw-graphing/bronkerbosch.cc",
+  "file": "/home/tristan/devel/emdw/src/emdw-graphing/bronkerbosch.cc",
+  "output": "src/CMakeFiles/emdw.dir/emdw-graphing/bronkerbosch.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/emdw-graphing/clustergraph.cc.o -c /home/tristan/devel/emdw/src/emdw-graphing/clustergraph.cc",
+  "file": "/home/tristan/devel/emdw/src/emdw-graphing/clustergraph.cc",
+  "output": "src/CMakeFiles/emdw.dir/emdw-graphing/clustergraph.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/test/affinemvg.test.cc.o -c /home/tristan/devel/emdw/src/test/affinemvg.test.cc",
+  "file": "/home/tristan/devel/emdw/src/test/affinemvg.test.cc",
+  "output": "src/CMakeFiles/emdw.dir/test/affinemvg.test.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/test/bronkerbosch.test.cc.o -c /home/tristan/devel/emdw/src/test/bronkerbosch.test.cc",
+  "file": "/home/tristan/devel/emdw/src/test/bronkerbosch.test.cc",
+  "output": "src/CMakeFiles/emdw.dir/test/bronkerbosch.test.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/test/conditionalpolya.test.cc.o -c /home/tristan/devel/emdw/src/test/conditionalpolya.test.cc",
+  "file": "/home/tristan/devel/emdw/src/test/conditionalpolya.test.cc",
+  "output": "src/CMakeFiles/emdw.dir/test/conditionalpolya.test.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/test/dirichlet.test.cc.o -c /home/tristan/devel/emdw/src/test/dirichlet.test.cc",
+  "file": "/home/tristan/devel/emdw/src/test/dirichlet.test.cc",
+  "output": "src/CMakeFiles/emdw.dir/test/dirichlet.test.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/test/dirichletset.test.cc.o -c /home/tristan/devel/emdw/src/test/dirichletset.test.cc",
+  "file": "/home/tristan/devel/emdw/src/test/dirichletset.test.cc",
+  "output": "src/CMakeFiles/emdw.dir/test/dirichletset.test.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/test/discretetable.test.cc.o -c /home/tristan/devel/emdw/src/test/discretetable.test.cc",
+  "file": "/home/tristan/devel/emdw/src/test/discretetable.test.cc",
+  "output": "src/CMakeFiles/emdw.dir/test/discretetable.test.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/test/polya.test.cc.o -c /home/tristan/devel/emdw/src/test/polya.test.cc",
+  "file": "/home/tristan/devel/emdw/src/test/polya.test.cc",
+  "output": "src/CMakeFiles/emdw.dir/test/polya.test.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/test/sigmapoints.test.cc.o -c /home/tristan/devel/emdw/src/test/sigmapoints.test.cc",
+  "file": "/home/tristan/devel/emdw/src/test/sigmapoints.test.cc",
+  "output": "src/CMakeFiles/emdw.dir/test/sigmapoints.test.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/test/sqrtmvg.test.cc.o -c /home/tristan/devel/emdw/src/test/sqrtmvg.test.cc",
+  "file": "/home/tristan/devel/emdw/src/test/sqrtmvg.test.cc",
+  "output": "src/CMakeFiles/emdw.dir/test/sqrtmvg.test.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/utils-informationtheory/inftheory.cc.o -c /home/tristan/devel/emdw/src/utils-informationtheory/inftheory.cc",
+  "file": "/home/tristan/devel/emdw/src/utils-informationtheory/inftheory.cc",
+  "output": "src/CMakeFiles/emdw.dir/utils-informationtheory/inftheory.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/utils-matrix/mathfuncs.cc.o -c /home/tristan/devel/emdw/src/utils-matrix/mathfuncs.cc",
+  "file": "/home/tristan/devel/emdw/src/utils-matrix/mathfuncs.cc",
+  "output": "src/CMakeFiles/emdw.dir/utils-matrix/mathfuncs.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/utils-matrix/matops.cc.o -c /home/tristan/devel/emdw/src/utils-matrix/matops.cc",
+  "file": "/home/tristan/devel/emdw/src/utils-matrix/matops.cc",
+  "output": "src/CMakeFiles/emdw.dir/utils-matrix/matops.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/utils-matrix/v2vtransform.cc.o -c /home/tristan/devel/emdw/src/utils-matrix/v2vtransform.cc",
+  "file": "/home/tristan/devel/emdw/src/utils-matrix/v2vtransform.cc",
+  "output": "src/CMakeFiles/emdw.dir/utils-matrix/v2vtransform.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/utils-misc/colourmap.cc.o -c /home/tristan/devel/emdw/src/utils-misc/colourmap.cc",
+  "file": "/home/tristan/devel/emdw/src/utils-misc/colourmap.cc",
+  "output": "src/CMakeFiles/emdw.dir/utils-misc/colourmap.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/utils-misc/combinations.cc.o -c /home/tristan/devel/emdw/src/utils-misc/combinations.cc",
+  "file": "/home/tristan/devel/emdw/src/utils-misc/combinations.cc",
+  "output": "src/CMakeFiles/emdw.dir/utils-misc/combinations.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/utils-misc/oddsandsods.cc.o -c /home/tristan/devel/emdw/src/utils-misc/oddsandsods.cc",
+  "file": "/home/tristan/devel/emdw/src/utils-misc/oddsandsods.cc",
+  "output": "src/CMakeFiles/emdw.dir/utils-misc/oddsandsods.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src",
+  "command": "g++ -Demdw_EXPORTS -I/home/tristan/devel/emdw/build/src -I/home/tristan/devel/emdw/src -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g -fPIC   -Wall -o CMakeFiles/emdw.dir/utils-sigmapoints/sigmapoints.cc.o -c /home/tristan/devel/emdw/src/utils-sigmapoints/sigmapoints.cc",
+  "file": "/home/tristan/devel/emdw/src/utils-sigmapoints/sigmapoints.cc",
+  "output": "src/CMakeFiles/emdw.dir/utils-sigmapoints/sigmapoints.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src/wip",
+  "command": "g++  -I/home/tristan/devel/emdw/build/src/wip -I/home/tristan/devel/emdw/src/wip -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -std=c++17 -O3  -g   -Wall -o CMakeFiles/simlda.dir/simlda.cc.o -c /home/tristan/devel/emdw/src/wip/simlda.cc",
+  "file": "/home/tristan/devel/emdw/src/wip/simlda.cc",
+  "output": "src/wip/CMakeFiles/simlda.dir/simlda.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src/wip",
+  "command": "g++  -I/home/tristan/devel/emdw/build/src/wip -I/home/tristan/devel/emdw/src/wip -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -std=c++17 -O3  -g   -Wall -o CMakeFiles/emdwlda.dir/emdwlda.cc.o -c /home/tristan/devel/emdw/src/wip/emdwlda.cc",
+  "file": "/home/tristan/devel/emdw/src/wip/emdwlda.cc",
+  "output": "src/wip/CMakeFiles/emdwlda.dir/emdwlda.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src/bin",
+  "command": "g++  -I/home/tristan/devel/emdw/build/src/bin -I/home/tristan/devel/emdw/src/bin -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g   -Wall -o CMakeFiles/example.dir/example.cc.o -c /home/tristan/devel/emdw/src/bin/example.cc",
+  "file": "/home/tristan/devel/emdw/src/bin/example.cc",
+  "output": "src/bin/CMakeFiles/example.dir/example.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src/bin",
+  "command": "g++  -I/home/tristan/devel/emdw/build/src/bin -I/home/tristan/devel/emdw/src/bin -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g   -Wall -o CMakeFiles/week1.dir/week1.cc.o -c /home/tristan/devel/emdw/src/bin/week1.cc",
+  "file": "/home/tristan/devel/emdw/src/bin/week1.cc",
+  "output": "src/bin/CMakeFiles/week1.dir/week1.cc.o"
+},
+{
+  "directory": "/home/tristan/devel/emdw/build/src/bin",
+  "command": "g++  -I/home/tristan/devel/emdw/build/src/bin -I/home/tristan/devel/emdw/src/bin -I/home/tristan/devel -I/home/tristan/devel/prlite/src -I/home/tristan/devel/emdw/src/emdw-base -I/home/tristan/devel/emdw/src/emdw-beliefprop -I/home/tristan/devel/emdw/src/emdw-clustering -I/home/tristan/devel/emdw/src/emdw-factors -I/home/tristan/devel/emdw/src/emdw-graphing -I/home/tristan/devel/emdw/src/test -I/home/tristan/devel/emdw/src/utils-informationtheory -I/home/tristan/devel/emdw/src/utils-matrix -I/home/tristan/devel/emdw/src/utils-misc -I/home/tristan/devel/emdw/src/utils-sigmapoints -I/home/tristan/devel/emdw/src/utils-vector -I/home/tristan/devel/emdw/src/vmp -I/home/tristan/devel/emdw/src/wip -std=c++17 -O3  -g   -Wall -o CMakeFiles/week2.dir/week2.cc.o -c /home/tristan/devel/emdw/src/bin/week2.cc",
+  "file": "/home/tristan/devel/emdw/src/bin/week2.cc",
+  "output": "src/bin/CMakeFiles/week2.dir/week2.cc.o"
+}
+]

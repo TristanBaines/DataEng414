@@ -1,0 +1,325 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					],
+					"jsonFile" : "directory-src-Debug-b6cf2213fc5053b67c22.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src/emdw-base",
+					"jsonFile" : "directory-src.emdw-base-Debug-6be4033623c0f04ea750.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/emdw-base"
+				},
+				{
+					"build" : "src/emdw-beliefprop",
+					"jsonFile" : "directory-src.emdw-beliefprop-Debug-7db1c7d53416d90a5935.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/emdw-beliefprop"
+				},
+				{
+					"build" : "src/emdw-clustering",
+					"jsonFile" : "directory-src.emdw-clustering-Debug-221300e8f19959f992a9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/emdw-clustering"
+				},
+				{
+					"build" : "src/emdw-factors",
+					"jsonFile" : "directory-src.emdw-factors-Debug-cc61d0b4ba1b7237b5b4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/emdw-factors"
+				},
+				{
+					"build" : "src/emdw-graphing",
+					"jsonFile" : "directory-src.emdw-graphing-Debug-8fba1a4efeb016ff5e28.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/emdw-graphing"
+				},
+				{
+					"build" : "src/test",
+					"jsonFile" : "directory-src.test-Debug-3607701395add829ebf1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/test"
+				},
+				{
+					"build" : "src/utils-dependancyglue",
+					"jsonFile" : "directory-src.utils-dependancyglue-Debug-74f00d9a90dff76426a6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/utils-dependancyglue"
+				},
+				{
+					"build" : "src/utils-informationtheory",
+					"jsonFile" : "directory-src.utils-informationtheory-Debug-de5e408ad3142aca3042.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/utils-informationtheory"
+				},
+				{
+					"build" : "src/utils-matrix",
+					"jsonFile" : "directory-src.utils-matrix-Debug-f276285f83a48a4cb853.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/utils-matrix"
+				},
+				{
+					"build" : "src/utils-misc",
+					"jsonFile" : "directory-src.utils-misc-Debug-8818aa7ed39724f1762a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/utils-misc"
+				},
+				{
+					"build" : "src/utils-sigmapoints",
+					"jsonFile" : "directory-src.utils-sigmapoints-Debug-9267e04f03b8dbe24778.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/utils-sigmapoints"
+				},
+				{
+					"build" : "src/utils-vector",
+					"jsonFile" : "directory-src.utils-vector-Debug-73b57d0a33571edf739f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/utils-vector"
+				},
+				{
+					"build" : "src/vmp",
+					"jsonFile" : "directory-src.vmp-Debug-8e6815035550cb278cc5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/vmp"
+				},
+				{
+					"build" : "src/wip",
+					"jsonFile" : "directory-src.wip-Debug-adc8c73f7b5483cefb1c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/wip",
+					"targetIndexes" : 
+					[
+						1,
+						3
+					]
+				},
+				{
+					"build" : "src/bin",
+					"jsonFile" : "directory-src.bin-Debug-dc8a1076e4789b799e98.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/bin",
+					"targetIndexes" : 
+					[
+						2,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					],
+					"name" : "emdw",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "emdw::@145eef247bfb46b6828c",
+					"jsonFile" : "target-emdw-Debug-75b786115e41c75e8d0a.json",
+					"name" : "emdw",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "emdwlda::@e54b6d069d19c8977bf3",
+					"jsonFile" : "target-emdwlda-Debug-1adeb2715702c5a8d7a2.json",
+					"name" : "emdwlda",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "example::@8acf54fa7910d9dab7c2",
+					"jsonFile" : "target-example-Debug-453cda40ef56a90ca5b4.json",
+					"name" : "example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "simlda::@e54b6d069d19c8977bf3",
+					"jsonFile" : "target-simlda-Debug-467facee29fef1bef5c5.json",
+					"name" : "simlda",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "week1::@8acf54fa7910d9dab7c2",
+					"jsonFile" : "target-week1-Debug-4505ebf7127c2fddc7ea.json",
+					"name" : "week1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "week2::@8acf54fa7910d9dab7c2",
+					"jsonFile" : "target-week2-Debug-0e08886567860fb554ce.json",
+					"name" : "week2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/tristan/devel/emdw/build",
+		"source" : "/home/tristan/devel/emdw"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
